@@ -1,1 +1,5 @@
-this is for dummy1 sike too
+<<<<<<< HEAD
+this is for dummy1 sike
+=======
+this is for dummy1 sike
+>>>>>>> 0fe2cae901da23a74bef4d06965655a82f499657
